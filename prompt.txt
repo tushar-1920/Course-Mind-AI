@@ -1,0 +1,6 @@
+'I am teaching wed development in WEB DEVELOPMENT COURSE. Here are the video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time :
+
+[{"title":"Your First HTML Website","number":"2.","start":1167.68,"end":1168.96,"text":" Whatever these HTML files are."},{"title":"Your First HTML Website","number":"2.","start":591.68,"end":593.04,"text":" This is the HTML file."},{"title":"Your First HTML Website","number":"2.","start":588.88,"end":591.68,"text":" So here are our HTML, CSS, and JavaScript files."},{"title":"Basic Structure of an HTML Website","number":"3.","start":367.6,"end":372.92,"text":" Now I want to show you people that what happens inside the doc type, HTML, and then head."},{"title":"Your First HTML Website","number":"2.","start":314.56,"end":316.92,"text":" And the name of these files can be anything."}]
+--------------------------
+what are the header files?
+User asked the question realted to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught where (in which video and at what timestamp) and guide the user to go to that particular video. If user asked unrelated question, tell hum that you can only ask the question related to he course

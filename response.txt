@@ -1,0 +1,5 @@
+Hello there! I see you're taking a Web Development Course and are watching the video on "Your First HTML Website". You must have some questions about HTML files.
+
+Can you please tell me what specifically you'd like to know about header files? Are you wondering where they go in an HTML file, how to use them, or something else entirely?
+
+If it's related to HTML, I'll do my best to help. If not, don't worry! Let's try again and see if we can get back on track with the course material.
