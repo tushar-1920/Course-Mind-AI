@@ -37,7 +37,7 @@ def create_embedding(text_list):
     return response["embeddings"]
 
 
-jsons = os.listdir("jsons")  # List all the jsons 
+jsons = os.listdir("newjsons")  # List all the jsons 
 my_dicts = []
 chunk_id = 0
 

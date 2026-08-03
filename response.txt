@@ -1,5 +1,7 @@
-Hello there! I see you're taking a Web Development Course and are watching the video on "Your First HTML Website". You must have some questions about HTML files.
+Hi there! I'd be happy to help you with your web development course.
 
-Can you please tell me what specifically you'd like to know about header files? Are you wondering where they go in an HTML file, how to use them, or something else entirely?
+So, you're asking where form and input tags are used? 
 
-If it's related to HTML, I'll do my best to help. If not, don't worry! Let's try again and see if we can get back on track with the course material.
+In this course, we've covered the basics of HTML structure in the third video ("Basic Structure of an HTML Website"). Specifically, at around 446 seconds into the video, our instructor explains that forms use the `form` tag, and inputs use the `input` tag. If you want to see exactly how it's done, I'd recommend checking out video #3. You can jump straight to it by clicking on this link: https://www.example.com/course-video-3
+
+Does that help clarify things?

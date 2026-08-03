@@ -5,6 +5,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import joblib
 import requests
+from openai import OpenAI
+from config import api_key
+
+client = OpenAI(api_key=api_key)
 
 # df = joblib.load('embeddings.joblib')
 def create_embedding(text_list):
@@ -41,6 +45,16 @@ def inference(prompt):
     print(response)
     return response
 
+def inference_openai(prompt):
+    print("Thinking.....")
+    response = client.responses.create(
+    model="gpt-5",
+    input=prompt
+    )
+
+    return response.output_text
+
+
 
 df = joblib.load('embeddings.joblib')
 
@@ -76,5 +90,5 @@ with open("prompt.txt", "w") as f:
 response = inference(prompt)["response"]
 print(response)
 
-with open("response.txt","w") as f:
+with open("response.txt","w", encoding="utf-8") as f:
     f.write(response)
